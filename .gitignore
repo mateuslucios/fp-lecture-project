@@ -1,6 +1,6 @@
 .classpath
 .project
 .settings/*
-.worksheets/bin/*
+.worksheet/*
 bin/*
 
